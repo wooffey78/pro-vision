@@ -1,0 +1,242 @@
+[
+ {
+  "nom": "script simple",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><script>alert(1)</script><rect width=\"5\" height=\"5\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "script CDATA",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><script><![CDATA[alert(1)]]></script></svg>",
+  "refus": false
+ },
+ {
+  "nom": "script majuscules",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><SCRIPT>alert(1)</SCRIPT></svg>",
+  "refus": false
+ },
+ {
+  "nom": "script préfixé",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><svg:script xmlns:svg=\"http://www.w3.org/2000/svg\">alert(1)</svg:script></svg>",
+  "refus": false
+ },
+ {
+  "nom": "onload sur la racine",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" onload=\"alert(1)\" viewBox=\"0 0 1 1\"><rect width=\"1\" height=\"1\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "onclick sur rect",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><rect width=\"5\" height=\"5\" onclick=\"alert(1)\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "onmouseover sur path",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><path d=\"M0 0L5 5\" onmouseover=\"alert(1)\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "foreignObject + iframe",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><foreignObject><iframe src=\"http://evil/\"></iframe></foreignObject></svg>",
+  "refus": false
+ },
+ {
+  "nom": "iframe direct",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><iframe src=\"javascript:alert(1)\"></iframe></svg>",
+  "refus": false
+ },
+ {
+  "nom": "object",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><object data=\"http://evil/x.swf\"></object></svg>",
+  "refus": false
+ },
+ {
+  "nom": "embed",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><embed src=\"http://evil/x\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "image javascript",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><image href=\"javascript:alert(1)\" width=\"5\" height=\"5\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "image data svg",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><image href=\"data:image/svg+xml;base64,PHN2Zz48L3N2Zz4=\" width=\"5\" height=\"5\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "image xlink data",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><image xlink:href=\"data:text/html,<script>alert(1)</script>\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "use href externe",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><use href=\"http://evil/x.svg#a\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "use href data",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><use href=\"data:image/svg+xml,<svg/>\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "use xlink externe",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><use xlink:href=\"http://evil/x.svg#a\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "lien a javascript",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><a href=\"javascript:alert(1)\"><rect width=\"5\" height=\"5\"/></a></svg>",
+  "refus": false
+ },
+ {
+  "nom": "élément style @import",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><style>@import url(http://evil/x.css);</style><rect width=\"5\" height=\"5\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "attribut style url",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><rect width=\"5\" height=\"5\" style=\"fill:url(javascript:alert(1))\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "fill url externe",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><rect width=\"5\" height=\"5\" fill=\"url(http://evil/x#a)\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "mask url externe",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><rect width=\"5\" height=\"5\" mask=\"url(https://evil/m)\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "clip-path url externe",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><rect width=\"5\" height=\"5\" clip-path=\"url(//evil/c)\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "animate href",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><a><animate attributeName=\"href\" values=\"javascript:alert(1)\"/></a></svg>",
+  "refus": false
+ },
+ {
+  "nom": "set href",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><set attributeName=\"onclick\" to=\"alert(1)\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "entité numérique javascript",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><rect width=\"5\" height=\"5\" fill=\"&#106;avascript:alert(1)\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "javascript avec tabulation",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><rect width=\"5\" height=\"5\" fill=\"java\tscript:alert(1)\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "data: dans fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><rect width=\"5\" height=\"5\" fill=\"data:text/html,x\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "expression()",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><rect width=\"5\" height=\"5\" fill=\"expression(alert(1))\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "pattern avec image",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><pattern id=\"p\"><image href=\"http://evil/i.png\"/></pattern></svg>",
+  "refus": false
+ },
+ {
+  "nom": "linearGradient href externe",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><linearGradient id=\"g\" href=\"http://evil/g.svg#x\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "texte avec script enfant",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><text>Bonjour<script>alert(1)</script></text></svg>",
+  "refus": false
+ },
+ {
+  "nom": "caractères bidi dans texte",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><text>abc‮def⁦</text></svg>",
+  "refus": false
+ },
+ {
+  "nom": "commentaire avec script",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><!-- <script>alert(1)</script> --><rect width=\"5\" height=\"5\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "instruction de traitement",
+  "svg": "<?xml-stylesheet href=\"http://evil/x.css\"?><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><rect width=\"5\" height=\"5\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "attribut inconnu",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><rect width=\"5\" height=\"5\" formaction=\"http://evil/\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "class dangereuse",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><rect width=\"5\" height=\"5\" class=\"a&quot; onclick=&quot;x\"/></svg>",
+  "refus": false
+ },
+ {
+  "nom": "DOCTYPE + ENTITY (milliard de rires)",
+  "svg": "<!DOCTYPE svg [<!ENTITY a \"aaaa\"><!ENTITY b \"&a;&a;&a;&a;\">]><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><text>&b;</text></svg>",
+  "refus": true
+ },
+ {
+  "nom": "DOCTYPE seul",
+  "svg": "<!DOCTYPE svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\" \"http://evil/svg.dtd\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"></svg>",
+  "refus": true
+ },
+ {
+  "nom": "ENTITY externe (XXE)",
+  "svg": "<!DOCTYPE svg [<!ENTITY x SYSTEM \"file:///etc/passwd\">]><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><text>&x;</text></svg>",
+  "refus": true
+ },
+ {
+  "nom": "balise non fermée",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><g><rect width=\"5\" height=\"5\"/>",
+  "refus": true
+ },
+ {
+  "nom": "balises croisées",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><g><rect></g></rect></svg>",
+  "refus": true
+ },
+ {
+  "nom": "valeur sans guillemets",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><rect onclick=alert(1) width=\"5\"/></svg>",
+  "refus": true
+ },
+ {
+  "nom": "racine non svg",
+  "svg": "<html><body><script>alert(1)</script></body></html>",
+  "refus": true
+ },
+ {
+  "nom": "deux racines",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"></svg><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"></svg>",
+  "refus": true
+ },
+ {
+  "nom": "chaîne vide",
+  "svg": "",
+  "refus": true
+ },
+ {
+  "nom": "texte seul",
+  "svg": "bonjour",
+  "refus": true
+ },
+ {
+  "nom": "imbrication excessive",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 10 10\"><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><g><rect width=\"1\" height=\"1\"/></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></g></svg>",
+  "refus": true
+ }
+]

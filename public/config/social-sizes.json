@@ -1,0 +1,15 @@
+{
+  "avertissement": "À VÉRIFIER : les dimensions des réseaux sociaux changent souvent. Contrôlez-les sur le site de chaque réseau avant de publier.",
+  "formats": [
+    { "id": "profil", "reseau": "Tous réseaux", "usage": "Photo de profil (carré, affichée en rond)", "largeur": 400, "hauteur": 400, "securite": 0.12, "verifieLe": null },
+    { "id": "banniere-facebook", "reseau": "Facebook", "usage": "Photo de couverture", "largeur": 820, "hauteur": 312, "securite": 0.1, "verifieLe": null },
+    { "id": "banniere-linkedin", "reseau": "LinkedIn", "usage": "Bannière de profil", "largeur": 1584, "hauteur": 396, "securite": 0.1, "verifieLe": null },
+    { "id": "banniere-x", "reseau": "X", "usage": "Image d'en-tête", "largeur": 1500, "hauteur": 500, "securite": 0.1, "verifieLe": null },
+    { "id": "banniere-youtube", "reseau": "YouTube", "usage": "Bannière de chaîne", "largeur": 2560, "hauteur": 1440, "securite": 0.28, "verifieLe": null },
+    { "id": "post-carre", "reseau": "Instagram, Facebook, LinkedIn", "usage": "Publication carrée", "largeur": 1080, "hauteur": 1080, "securite": 0.06, "verifieLe": null },
+    { "id": "post-portrait", "reseau": "Instagram, Facebook", "usage": "Publication portrait 4:5", "largeur": 1080, "hauteur": 1350, "securite": 0.06, "verifieLe": null },
+    { "id": "story", "reseau": "Instagram, Facebook, TikTok", "usage": "Story ou format vertical 9:16", "largeur": 1080, "hauteur": 1920, "securite": 0.12, "verifieLe": null },
+    { "id": "vignette-video", "reseau": "YouTube", "usage": "Vignette vidéo 16:9", "largeur": 1280, "hauteur": 720, "securite": 0.06, "verifieLe": null },
+    { "id": "partage", "reseau": "Tous réseaux", "usage": "Image de partage de lien", "largeur": 1200, "hauteur": 630, "securite": 0.06, "verifieLe": null }
+  ]
+}

@@ -1,0 +1,38 @@
+/* Seul fichier où figurent des valeurs de couleur : tout le reste utilise var(--…).
+   Habillage aligné sur VYRATY : encre vert forêt, papier crème, accent terracotta, Inter. */
+:root {
+  --c-fond: #f6f7f2;
+  --c-surface: #ffffff;
+  --c-surface-2: #edf2e9;
+  --c-entete: rgb(255 255 255 / 0.92);
+  --c-texte-fort: #112d2a;
+  --c-texte: #173b37;
+  --c-texte-attenue: #53665d;
+  --c-bordure: #dce5df;
+  --c-bordure-forte: #c8d6cd;
+  --c-primaire: #173b37;
+  --c-sur-primaire: #ffffff;
+  --c-primaire-survol: #355b55;
+  --c-secondaire-fond: #e9f0e9;
+  --c-secondaire-bord: #dce8dc;
+  --c-secondaire-survol: #dfe9de;
+  --c-accent: #c46b43;
+  --c-accent-fonce: #a95431;
+  --c-accent-pale: #f8e9df;
+  --c-succes: #24765b;
+  --c-erreur: #9b3434;
+  --c-avert: #8b5b1a;
+  --c-danger: #9b3434;
+  --c-sur-danger: #ffffff;
+  --c-sombre-fond: #112d2a;
+  --c-sur-sombre: #f6f7f2;
+  --c-focus: #a95431;
+  --ombre: 0 18px 48px rgb(23 59 55 / 0.055);
+  --rayon: 13px;
+  --rayon-petit: 9px;
+  --espace: 1rem;
+  --police-texte: Inter, "Avenir Next", Avenir, ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --police-titres: var(--police-texte);
+  --police-mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  color-scheme: light;
+}

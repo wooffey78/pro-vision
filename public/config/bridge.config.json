@@ -1,0 +1,7 @@
+{
+  "apps": [
+    { "id": "vyraty", "nom": "VYRATY", "baseUrl": "https://[A_RENSEIGNER]", "role": "creation-entreprise", "actif": true },
+    { "id": "provision", "nom": "Pro-vision", "baseUrl": "https://[A_RENSEIGNER]", "role": "identite-visuelle", "actif": true },
+    { "id": "aurion", "nom": "AURION", "baseUrl": "", "role": "a-definir", "actif": false }
+  ]
+}

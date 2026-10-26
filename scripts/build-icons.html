@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><title>Générer les icônes Pro-vision</title></head>
+<body>
+<h1>Icônes Pro-vision</h1>
+<p>Ouvrez cette page dans un navigateur : chaque image ci-dessous est un PNG à enregistrer (clic droit) dans <code>public/assets/icons/</code> sous le nom indiqué.</p>
+<div id="sortie"></div>
+<script>
+const logo = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="18" fill="#173b37"/><circle cx="30" cy="34" r="15" fill="none" stroke="#f6f7f2" stroke-width="6"/><path d="M43 17h7v7h-7z" fill="#c46b43"/></svg>`;
+const tailles = [['favicon-32.png', 32], ['apple-touch-icon.png', 180], ['icon-192.png', 192], ['icon-512.png', 512]];
+for (const [nom, t] of tailles) {
+  const img = new Image();
+  img.onload = () => {
+    const c = document.createElement('canvas'); c.width = c.height = t; c.getContext('2d').drawImage(img, 0, 0, t, t);
+    const out = new Image(); out.src = c.toDataURL('image/png'); out.alt = nom;
+    const fig = document.createElement('figure'); fig.append(out, Object.assign(document.createElement('figcaption'), { textContent: nom }));
+    document.getElementById('sortie').append(fig);
+  };
+  img.src = 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(logo);
+}
+</script>
+</body></html>

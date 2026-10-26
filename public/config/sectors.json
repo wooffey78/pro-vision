@@ -1,0 +1,1366 @@
+{
+ "avertissement": "Contenus gabarits : adaptez-les à votre activité.",
+ "secteurs": [
+  {
+   "id": "artisanat-bougies",
+   "libelle": "Bougies et artisanat",
+   "motsCles": [
+    "bougie",
+    "bougies",
+    "cire",
+    "parfum",
+    "parfums",
+    "senteur",
+    "fait main",
+    "artisan",
+    "artisanat",
+    "atelier",
+    "création",
+    "déco",
+    "décoration",
+    "mèche",
+    "savon",
+    "poterie",
+    "céramique",
+    "couture"
+   ],
+   "symboles": [
+    "flame",
+    "sparkles",
+    "gem",
+    "paintbrush",
+    "heart-handshake"
+   ],
+   "ambiances": [
+    "chaleureux",
+    "artisanal",
+    "doux"
+   ],
+   "produits": [
+    "bougies",
+    "cire",
+    "parfums d'intérieur"
+   ],
+   "couleurs": [
+    "Ambre",
+    "Corail",
+    "Rose"
+   ],
+   "lexique": {
+    "structures": [
+     "Atelier|m",
+     "Maison|f",
+     "Fabrique|f"
+    ],
+    "natures": [
+     "Lune|f",
+     "Ambre|m",
+     "Cèdre|m",
+     "Braise|f",
+     "Lueur|f",
+     "Sève|f",
+     "Cannelle|f",
+     "Aube|f"
+    ],
+    "adjectifs": [
+     "Doré|Dorée",
+     "Doux|Douce",
+     "Tendre|Tendre",
+     "Brut|Brute"
+    ],
+    "racines": [
+     "lumi",
+     "flam",
+     "ambr",
+     "cir"
+    ],
+    "suffixes": [
+     "na",
+     "ra",
+     "lia",
+     "ys"
+    ]
+   },
+   "slogans": [
+    "l'art de faire",
+    "un geste, une matière",
+    "du fait main avec soin"
+   ]
+  },
+  {
+   "id": "coiffure-beaute",
+   "libelle": "Coiffure et beauté",
+   "motsCles": [
+    "coiffure",
+    "coiffeur",
+    "coiffeuse",
+    "cheveux",
+    "beauté",
+    "esthétique",
+    "ongles",
+    "manucure",
+    "maquillage",
+    "soin",
+    "soins",
+    "visage",
+    "barbier",
+    "barbe",
+    "salon",
+    "institut",
+    "épilation",
+    "cils"
+   ],
+   "symboles": [
+    "scissors",
+    "sparkle",
+    "flower-2",
+    "brush",
+    "heart"
+   ],
+   "ambiances": [
+    "élégant",
+    "chaleureux",
+    "premium"
+   ],
+   "produits": [
+    "coupes",
+    "soins",
+    "colorations"
+   ],
+   "couleurs": [
+    "Rose",
+    "Violet",
+    "Corail"
+   ],
+   "lexique": {
+    "structures": [
+     "Salon|m",
+     "Institut|m",
+     "Atelier|m",
+     "Maison|f"
+    ],
+    "natures": [
+     "Éclat|m",
+     "Soie|f",
+     "Pivoine|f",
+     "Velours|m",
+     "Opale|f",
+     "Camélia|m",
+     "Iris|m",
+     "Perle|f"
+    ],
+    "adjectifs": [
+     "Doré|Dorée",
+     "Rare|Rare",
+     "Précieux|Précieuse",
+     "Sublime|Sublime"
+    ],
+    "racines": [
+     "bell",
+     "sensu",
+     "soy",
+     "glam"
+    ],
+    "suffixes": [
+     "a",
+     "elle",
+     "ine",
+     "ia"
+    ]
+   },
+   "slogans": [
+    "la beauté, à votre rythme",
+    "prendre soin de vous",
+    "un moment rien qu'à vous"
+   ]
+  },
+  {
+   "id": "plomberie-chauffage-electricite",
+   "libelle": "Plomberie, chauffage, électricité",
+   "motsCles": [
+    "plombier",
+    "plomberie",
+    "chauffage",
+    "chauffagiste",
+    "électricien",
+    "électricité",
+    "dépannage",
+    "fuite",
+    "chaudière",
+    "radiateur",
+    "installation",
+    "sanitaire",
+    "climatisation",
+    "panneau",
+    "prise",
+    "réparation"
+   ],
+   "symboles": [
+    "wrench",
+    "droplets",
+    "zap",
+    "thermometer",
+    "plug"
+   ],
+   "ambiances": [
+    "rassurant",
+    "sérieux",
+    "moderne"
+   ],
+   "produits": [
+    "dépannage",
+    "installation",
+    "entretien"
+   ],
+   "couleurs": [
+    "Bleu",
+    "Bleu nuit",
+    "Turquoise"
+   ],
+   "lexique": {
+    "structures": [
+     "Atelier|m",
+     "Maison|f",
+     "Cabinet|m"
+    ],
+    "natures": [
+     "Source|f",
+     "Courant|m",
+     "Flux|m",
+     "Étincelle|f",
+     "Cascade|f",
+     "Foyer|m",
+     "Ruisseau|m",
+     "Ligne|f"
+    ],
+    "adjectifs": [
+     "Fiable|Fiable",
+     "Clair|Claire",
+     "Droit|Droite",
+     "Franc|Franche"
+    ],
+    "racines": [
+     "hydr",
+     "therm",
+     "volt",
+     "flux"
+    ],
+    "suffixes": [
+     "tek",
+     "ia",
+     "ys",
+     "eo"
+    ]
+   },
+   "slogans": [
+    "un dépannage clair et soigné",
+    "quand ça compte, nous sommes là",
+    "des installations propres, des explications simples"
+   ]
+  },
+  {
+   "id": "batiment-renovation",
+   "libelle": "Bâtiment et rénovation",
+   "motsCles": [
+    "bâtiment",
+    "maçon",
+    "maçonnerie",
+    "rénovation",
+    "travaux",
+    "peinture",
+    "peintre",
+    "carrelage",
+    "menuiserie",
+    "menuisier",
+    "toiture",
+    "isolation",
+    "chantier",
+    "plâtrerie",
+    "façade",
+    "agencement"
+   ],
+   "symboles": [
+    "hard-hat",
+    "hammer",
+    "paint-roller",
+    "brick-wall",
+    "ruler"
+   ],
+   "ambiances": [
+    "sérieux",
+    "rassurant",
+    "audacieux"
+   ],
+   "produits": [
+    "rénovation",
+    "peinture",
+    "agencement"
+   ],
+   "couleurs": [
+    "Ambre",
+    "Bleu nuit",
+    "Rouge"
+   ],
+   "lexique": {
+    "structures": [
+     "Atelier|m",
+     "Maison|f",
+     "Cabinet|m"
+    ],
+    "natures": [
+     "Pierre|f",
+     "Chêne|m",
+     "Équerre|f",
+     "Brique|f",
+     "Fondation|f",
+     "Charpente|f",
+     "Cadre|m",
+     "Mortier|m"
+    ],
+    "adjectifs": [
+     "Solide|Solide",
+     "Droit|Droite",
+     "Précis|Précise",
+     "Durable|Durable"
+    ],
+    "racines": [
+     "bât",
+     "struct",
+     "mur",
+     "pier"
+    ],
+    "suffixes": [
+     "ia",
+     "eo",
+     "or",
+     "ex"
+    ]
+   },
+   "slogans": [
+    "construire avec soin",
+    "votre projet, notre savoir-faire",
+    "des travaux bien menés"
+   ]
+  },
+  {
+   "id": "restauration-traiteur",
+   "libelle": "Restauration et traiteur",
+   "motsCles": [
+    "restaurant",
+    "restauration",
+    "traiteur",
+    "cuisine",
+    "cuisinier",
+    "chef",
+    "repas",
+    "plat",
+    "plats",
+    "menu",
+    "buffet",
+    "banquet",
+    "déjeuner",
+    "dîner",
+    "réception",
+    "livraison"
+   ],
+   "symboles": [
+    "utensils",
+    "chef-hat",
+    "soup",
+    "utensils-crossed",
+    "salad"
+   ],
+   "ambiances": [
+    "chaleureux",
+    "joyeux",
+    "artisanal"
+   ],
+   "produits": [
+    "plats maison",
+    "buffets",
+    "réceptions"
+   ],
+   "couleurs": [
+    "Corail",
+    "Ambre",
+    "Rouge"
+   ],
+   "lexique": {
+    "structures": [
+     "Table|f",
+     "Comptoir|m",
+     "Maison|f",
+     "Atelier|m"
+    ],
+    "natures": [
+     "Safran|m",
+     "Basilic|m",
+     "Braise|f",
+     "Marmite|f",
+     "Poivre|m",
+     "Festin|m",
+     "Cuillère|f",
+     "Thym|m"
+    ],
+    "adjectifs": [
+     "Gourmand|Gourmande",
+     "Doré|Dorée",
+     "Fumé|Fumée",
+     "Généreux|Généreuse"
+    ],
+    "racines": [
+     "gour",
+     "savo",
+     "mit",
+     "sav"
+    ],
+    "suffixes": [
+     "ia",
+     "ino",
+     "elle",
+     "ou"
+    ]
+   },
+   "slogans": [
+    "de bons plats, faits avec soin",
+    "à table !",
+    "la cuisine qui rassemble"
+   ]
+  },
+  {
+   "id": "boulangerie-patisserie",
+   "libelle": "Boulangerie et pâtisserie",
+   "motsCles": [
+    "boulangerie",
+    "boulanger",
+    "pain",
+    "pains",
+    "pâtisserie",
+    "pâtissier",
+    "gâteau",
+    "gâteaux",
+    "viennoiserie",
+    "croissant",
+    "tarte",
+    "farine",
+    "four",
+    "fournil",
+    "macaron",
+    "entremets"
+   ],
+   "symboles": [
+    "croissant",
+    "wheat",
+    "cake",
+    "cookie"
+   ],
+   "ambiances": [
+    "chaleureux",
+    "artisanal",
+    "joyeux"
+   ],
+   "produits": [
+    "pains",
+    "viennoiseries",
+    "pâtisseries"
+   ],
+   "couleurs": [
+    "Ambre",
+    "Corail",
+    "Rose"
+   ],
+   "lexique": {
+    "structures": [
+     "Fournil|m",
+     "Maison|f",
+     "Atelier|m",
+     "Boulangerie|f"
+    ],
+    "natures": [
+     "Épi|m",
+     "Levain|m",
+     "Blé|m",
+     "Mie|f",
+     "Croûte|f",
+     "Farine|f",
+     "Sucre|m",
+     "Brioche|f"
+    ],
+    "adjectifs": [
+     "Doré|Dorée",
+     "Croustillant|Croustillante",
+     "Tendre|Tendre",
+     "Tiède|Tiède"
+    ],
+    "racines": [
+     "pét",
+     "lev",
+     "mie",
+     "bl"
+    ],
+    "suffixes": [
+     "ette",
+     "ou",
+     "ine",
+     "ier"
+    ]
+   },
+   "slogans": [
+    "du pain, des sourires",
+    "chaque matin, un fournil qui sent bon",
+    "le goût du travail bien fait"
+   ]
+  },
+  {
+   "id": "cafe-boissons",
+   "libelle": "Café et boissons",
+   "motsCles": [
+    "café",
+    "cafés",
+    "thé",
+    "boisson",
+    "boissons",
+    "bar",
+    "torréfaction",
+    "torréfacteur",
+    "brasserie",
+    "bière",
+    "vin",
+    "cave",
+    "jus",
+    "comptoir",
+    "infusion",
+    "cocktail"
+   ],
+   "symboles": [
+    "coffee",
+    "cup-soda",
+    "wine",
+    "beer",
+    "milk"
+   ],
+   "ambiances": [
+    "chaleureux",
+    "moderne",
+    "joyeux"
+   ],
+   "produits": [
+    "cafés",
+    "thés",
+    "boissons"
+   ],
+   "couleurs": [
+    "Ambre",
+    "Bleu nuit",
+    "Vert"
+   ],
+   "lexique": {
+    "structures": [
+     "Comptoir|m",
+     "Café|m",
+     "Maison|f",
+     "Cave|f"
+    ],
+    "natures": [
+     "Grain|m",
+     "Torrent|m",
+     "Crème|f",
+     "Infusion|f",
+     "Vapeur|f",
+     "Fève|f",
+     "Zeste|m",
+     "Arabica|m"
+    ],
+    "adjectifs": [
+     "Corsé|Corsée",
+     "Doux|Douce",
+     "Intense|Intense",
+     "Léger|Légère"
+    ],
+    "racines": [
+     "caf",
+     "aro",
+     "brew",
+     "tass"
+    ],
+    "suffixes": [
+     "a",
+     "ino",
+     "ea",
+     "io"
+    ]
+   },
+   "slogans": [
+    "une pause qui fait du bien",
+    "le plaisir de la tasse",
+    "à boire, à partager"
+   ]
+  },
+  {
+   "id": "mode-accessoires",
+   "libelle": "Mode et accessoires",
+   "motsCles": [
+    "mode",
+    "vêtement",
+    "vêtements",
+    "accessoire",
+    "accessoires",
+    "bijou",
+    "bijoux",
+    "sac",
+    "sacs",
+    "chaussures",
+    "créateur",
+    "couture",
+    "boutique",
+    "prêt-à-porter",
+    "foulard",
+    "montre"
+   ],
+   "symboles": [
+    "shirt",
+    "gem",
+    "glasses",
+    "handbag",
+    "watch"
+   ],
+   "ambiances": [
+    "élégant",
+    "premium",
+    "audacieux"
+   ],
+   "produits": [
+    "vêtements",
+    "accessoires",
+    "bijoux"
+   ],
+   "couleurs": [
+    "Noir et blanc",
+    "Rose",
+    "Violet"
+   ],
+   "lexique": {
+    "structures": [
+     "Atelier|m",
+     "Maison|f",
+     "Boutique|f",
+     "Studio|m"
+    ],
+    "natures": [
+     "Soie|f",
+     "Fil|m",
+     "Lin|m",
+     "Étoffe|f",
+     "Plume|f",
+     "Ruban|m",
+     "Perle|f",
+     "Satin|m"
+    ],
+    "adjectifs": [
+     "Brut|Brute",
+     "Rare|Rare",
+     "Précieux|Précieuse",
+     "Fin|Fine"
+    ],
+    "racines": [
+     "sty",
+     "form",
+     "tiss",
+     "fil"
+    ],
+    "suffixes": [
+     "a",
+     "ine",
+     "elle",
+     "or"
+    ]
+   },
+   "slogans": [
+    "le style, à votre mesure",
+    "porter ce qui vous ressemble",
+    "des créations qui se remarquent"
+   ]
+  },
+  {
+   "id": "bien-etre-massage",
+   "libelle": "Bien-être et massage",
+   "motsCles": [
+    "massage",
+    "bien-être",
+    "relaxation",
+    "sophrologie",
+    "yoga",
+    "méditation",
+    "naturopathie",
+    "spa",
+    "détente",
+    "soin",
+    "thérapie",
+    "réflexologie",
+    "sommeil",
+    "énergie",
+    "zen",
+    "respiration"
+   ],
+   "symboles": [
+    "hand-heart",
+    "leaf",
+    "sun",
+    "moon",
+    "waves"
+   ],
+   "ambiances": [
+    "rassurant",
+    "doux",
+    "naturel"
+   ],
+   "produits": [
+    "massages",
+    "séances",
+    "soins"
+   ],
+   "couleurs": [
+    "Vert",
+    "Turquoise",
+    "Bleu"
+   ],
+   "lexique": {
+    "structures": [
+     "Espace|m",
+     "Maison|f",
+     "Atelier|m",
+     "Cabinet|m"
+    ],
+    "natures": [
+     "Souffle|m",
+     "Lotus|m",
+     "Source|f",
+     "Brise|f",
+     "Galet|m",
+     "Oasis|f",
+     "Sérénité|f",
+     "Quiétude|f"
+    ],
+    "adjectifs": [
+     "Apaisé|Apaisée",
+     "Serein|Sereine",
+     "Doux|Douce",
+     "Paisible|Paisible"
+    ],
+    "racines": [
+     "zen",
+     "séré",
+     "sylv",
+     "relax"
+    ],
+    "suffixes": [
+     "a",
+     "ia",
+     "ine",
+     "ys"
+    ]
+   },
+   "slogans": [
+    "un temps pour vous",
+    "respirer, simplement",
+    "le calme, à portée de main"
+   ]
+  },
+  {
+   "id": "sport-coaching",
+   "libelle": "Sport et coaching",
+   "motsCles": [
+    "sport",
+    "coach",
+    "coaching",
+    "fitness",
+    "musculation",
+    "entraînement",
+    "course",
+    "vélo",
+    "yoga",
+    "pilates",
+    "nutrition",
+    "remise en forme",
+    "club",
+    "performance",
+    "préparation",
+    "boxe"
+   ],
+   "symboles": [
+    "dumbbell",
+    "bike",
+    "trophy",
+    "medal",
+    "target"
+   ],
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "joyeux"
+   ],
+   "produits": [
+    "séances",
+    "programmes",
+    "suivi"
+   ],
+   "couleurs": [
+    "Rouge",
+    "Corail",
+    "Bleu"
+   ],
+   "lexique": {
+    "structures": [
+     "Studio|m",
+     "Club|m",
+     "Atelier|m",
+     "Espace|m"
+    ],
+    "natures": [
+     "Élan|m",
+     "Sommet|m",
+     "Souffle|m",
+     "Cadence|f",
+     "Rythme|m",
+     "Défi|m",
+     "Allure|f",
+     "Cap|m"
+    ],
+    "adjectifs": [
+     "Fort|Forte",
+     "Libre|Libre",
+     "Vif|Vive",
+     "Franc|Franche"
+    ],
+    "racines": [
+     "dyn",
+     "mov",
+     "ener",
+     "péd"
+    ],
+    "suffixes": [
+     "ia",
+     "ex",
+     "ik",
+     "on"
+    ]
+   },
+   "slogans": [
+    "un pas après l'autre",
+    "à votre rythme",
+    "bouger, simplement"
+   ]
+  },
+  {
+   "id": "conseil-formation",
+   "libelle": "Conseil et formation",
+   "motsCles": [
+    "conseil",
+    "consultant",
+    "formation",
+    "formateur",
+    "coaching",
+    "accompagnement",
+    "stratégie",
+    "gestion",
+    "comptabilité",
+    "expert",
+    "audit",
+    "ateliers",
+    "pédagogie",
+    "cours",
+    "enseignement",
+    "rh"
+   ],
+   "symboles": [
+    "graduation-cap",
+    "presentation",
+    "briefcase",
+    "book-open",
+    "lightbulb"
+   ],
+   "ambiances": [
+    "sérieux",
+    "rassurant",
+    "moderne"
+   ],
+   "produits": [
+    "conseil",
+    "formations",
+    "accompagnement"
+   ],
+   "couleurs": [
+    "Bleu nuit",
+    "Bleu",
+    "Vert"
+   ],
+   "lexique": {
+    "structures": [
+     "Cabinet|m",
+     "Atelier|m",
+     "Studio|m",
+     "Espace|m"
+    ],
+    "natures": [
+     "Cap|m",
+     "Repère|m",
+     "Boussole|f",
+     "Cadre|m",
+     "Trame|f",
+     "Phare|m",
+     "Jalon|m",
+     "Horizon|m"
+    ],
+    "adjectifs": [
+     "Clair|Claire",
+     "Juste|Juste",
+     "Solide|Solide",
+     "Précis|Précise"
+    ],
+    "racines": [
+     "cons",
+     "cap",
+     "nov",
+     "méth"
+    ],
+    "suffixes": [
+     "ia",
+     "ys",
+     "eo",
+     "um"
+    ]
+   },
+   "slogans": [
+    "la clarté pour avancer",
+    "votre projet, nos repères",
+    "apprendre, comprendre, agir"
+   ]
+  },
+  {
+   "id": "informatique-web",
+   "libelle": "Informatique et web",
+   "motsCles": [
+    "informatique",
+    "web",
+    "site",
+    "sites",
+    "application",
+    "développeur",
+    "développement",
+    "logiciel",
+    "code",
+    "numérique",
+    "digital",
+    "réseau",
+    "dépannage",
+    "hébergement",
+    "cybersécurité",
+    "données"
+   ],
+   "symboles": [
+    "laptop",
+    "code",
+    "monitor",
+    "globe",
+    "cpu"
+   ],
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ],
+   "produits": [
+    "sites web",
+    "applications",
+    "dépannage"
+   ],
+   "couleurs": [
+    "Bleu",
+    "Turquoise",
+    "Violet"
+   ],
+   "lexique": {
+    "structures": [
+     "Studio|m",
+     "Atelier|m",
+     "Labo|m",
+     "Cabinet|m"
+    ],
+    "natures": [
+     "Pixel|m",
+     "Octet|m",
+     "Signal|m",
+     "Réseau|m",
+     "Nuage|m",
+     "Prisme|m",
+     "Circuit|m",
+     "Pulsar|m"
+    ],
+    "adjectifs": [
+     "Net|Nette",
+     "Fluide|Fluide",
+     "Simple|Simple",
+     "Rapide|Rapide"
+    ],
+    "racines": [
+     "byt",
+     "pix",
+     "log",
+     "nex"
+    ],
+    "suffixes": [
+     "ly",
+     "io",
+     "ix",
+     "on"
+    ]
+   },
+   "slogans": [
+    "le numérique, en clair",
+    "des outils simples qui marchent",
+    "du web fait avec soin"
+   ]
+  },
+  {
+   "id": "photo-video",
+   "libelle": "Photographie et vidéo",
+   "motsCles": [
+    "photographe",
+    "photographie",
+    "photo",
+    "vidéo",
+    "vidéaste",
+    "film",
+    "montage",
+    "reportage",
+    "mariage",
+    "portrait",
+    "studio",
+    "image",
+    "images",
+    "drone",
+    "cadrage",
+    "clip"
+   ],
+   "symboles": [
+    "camera",
+    "video",
+    "film",
+    "aperture",
+    "sparkles"
+   ],
+   "ambiances": [
+    "élégant",
+    "moderne",
+    "audacieux"
+   ],
+   "produits": [
+    "portraits",
+    "reportages",
+    "vidéos"
+   ],
+   "couleurs": [
+    "Noir et blanc",
+    "Bleu nuit",
+    "Ambre"
+   ],
+   "lexique": {
+    "structures": [
+     "Studio|m",
+     "Atelier|m",
+     "Maison|f",
+     "Cabinet|m"
+    ],
+    "natures": [
+     "Objectif|m",
+     "Lumière|f",
+     "Instant|m",
+     "Cadre|m",
+     "Reflet|m",
+     "Focale|f",
+     "Aube|f",
+     "Ombre|f"
+    ],
+    "adjectifs": [
+     "Net|Nette",
+     "Vif|Vive",
+     "Rare|Rare",
+     "Fin|Fine"
+    ],
+    "racines": [
+     "lum",
+     "fot",
+     "clic",
+     "focal"
+    ],
+    "suffixes": [
+     "a",
+     "ia",
+     "ix",
+     "eo"
+    ]
+   },
+   "slogans": [
+    "des images qui vous ressemblent",
+    "chaque instant compte",
+    "regarder autrement"
+   ]
+  },
+  {
+   "id": "jardinage-paysage",
+   "libelle": "Jardinage et paysage",
+   "motsCles": [
+    "jardin",
+    "jardinier",
+    "jardinage",
+    "paysagiste",
+    "paysage",
+    "pelouse",
+    "tonte",
+    "taille",
+    "haie",
+    "plantes",
+    "fleurs",
+    "potager",
+    "arbres",
+    "élagage",
+    "entretien",
+    "terrasse"
+   ],
+   "symboles": [
+    "trees",
+    "sprout",
+    "shovel",
+    "leaf",
+    "flower"
+   ],
+   "ambiances": [
+    "naturel",
+    "chaleureux",
+    "rassurant"
+   ],
+   "produits": [
+    "entretien de jardins",
+    "créations paysagères",
+    "taille"
+   ],
+   "couleurs": [
+    "Vert",
+    "Ambre",
+    "Turquoise"
+   ],
+   "lexique": {
+    "structures": [
+     "Jardin|m",
+     "Atelier|m",
+     "Maison|f",
+     "Pépinière|f"
+    ],
+    "natures": [
+     "Chêne|m",
+     "Fougère|f",
+     "Sève|f",
+     "Prairie|f",
+     "Bourgeon|m",
+     "Tilleul|m",
+     "Verger|m",
+     "Rosée|f"
+    ],
+    "adjectifs": [
+     "Vert|Verte",
+     "Fleuri|Fleurie",
+     "Naturel|Naturelle",
+     "Sauvage|Sauvage"
+    ],
+    "racines": [
+     "verd",
+     "flor",
+     "sylv",
+     "jard"
+    ],
+    "suffixes": [
+     "a",
+     "ia",
+     "ine",
+     "ys"
+    ]
+   },
+   "slogans": [
+    "un jardin qui vous ressemble",
+    "chaque saison, avec soin",
+    "le vivant, bien accompagné"
+   ]
+  },
+  {
+   "id": "services-personne",
+   "libelle": "Services à la personne",
+   "motsCles": [
+    "service",
+    "services",
+    "personne",
+    "aide",
+    "ménage",
+    "repassage",
+    "garde",
+    "enfants",
+    "seniors",
+    "courses",
+    "bricolage",
+    "dépannage",
+    "réparation",
+    "smartphone",
+    "écran",
+    "accompagnement",
+    "proximité"
+   ],
+   "symboles": [
+    "heart-handshake",
+    "smartphone",
+    "users",
+    "house",
+    "key"
+   ],
+   "ambiances": [
+    "rassurant",
+    "chaleureux",
+    "doux"
+   ],
+   "produits": [
+    "dépannages",
+    "aide à domicile",
+    "petits travaux"
+   ],
+   "couleurs": [
+    "Bleu",
+    "Ambre",
+    "Vert"
+   ],
+   "lexique": {
+    "structures": [
+     "Atelier|m",
+     "Maison|f",
+     "Service|m",
+     "Espace|m"
+    ],
+    "natures": [
+     "Aube|f",
+     "Clé|f",
+     "Seuil|m",
+     "Foyer|m",
+     "Havre|m",
+     "Lien|m",
+     "Passerelle|f",
+     "Étoile|f"
+    ],
+    "adjectifs": [
+     "Fiable|Fiable",
+     "Proche|Proche",
+     "Doux|Douce",
+     "Serviable|Serviable"
+    ],
+    "racines": [
+     "prox",
+     "aid",
+     "serv",
+     "lien"
+    ],
+    "suffixes": [
+     "a",
+     "ia",
+     "ine",
+     "eo"
+    ]
+   },
+   "slogans": [
+    "un coup de main, tout simplement",
+    "vous simplifier le quotidien",
+    "à vos côtés, au quotidien"
+   ]
+  },
+  {
+   "id": "commerce-proximite",
+   "libelle": "Commerce de proximité",
+   "motsCles": [
+    "commerce",
+    "boutique",
+    "magasin",
+    "épicerie",
+    "primeur",
+    "fleuriste",
+    "librairie",
+    "cadeaux",
+    "proximité",
+    "vente",
+    "producteur",
+    "local",
+    "marché",
+    "quartier",
+    "vrac",
+    "idées cadeaux"
+   ],
+   "symboles": [
+    "store",
+    "shopping-basket",
+    "package",
+    "map-pin",
+    "apple"
+   ],
+   "ambiances": [
+    "chaleureux",
+    "joyeux",
+    "rassurant"
+   ],
+   "produits": [
+    "produits locaux",
+    "cadeaux",
+    "épicerie"
+   ],
+   "couleurs": [
+    "Ambre",
+    "Vert",
+    "Corail"
+   ],
+   "lexique": {
+    "structures": [
+     "Boutique|f",
+     "Comptoir|m",
+     "Maison|f",
+     "Atelier|m"
+    ],
+    "natures": [
+     "Panier|m",
+     "Quartier|m",
+     "Marché|m",
+     "Éventail|m",
+     "Trèfle|m",
+     "Cabas|m",
+     "Vitrine|f",
+     "Colibri|m"
+    ],
+    "adjectifs": [
+     "Local|Locale",
+     "Frais|Fraîche",
+     "Petit|Petite",
+     "Bon|Bonne"
+    ],
+    "racines": [
+     "mar",
+     "loc",
+     "pani",
+     "bou"
+    ],
+    "suffixes": [
+     "a",
+     "ette",
+     "ou",
+     "ia"
+    ]
+   },
+   "slogans": [
+    "tout près de chez vous",
+    "du local, avec le sourire",
+    "le plaisir de choisir"
+   ]
+  }
+ ]
+}

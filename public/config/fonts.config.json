@@ -1,0 +1,5083 @@
+{
+ "familles": [
+  {
+   "id": "atkinson-hyperlegible",
+   "nom": "Atkinson Hyperlegible",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "rassurant",
+    "sérieux"
+   ],
+   "pile": "'Atkinson Hyperlegible',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "inter",
+   "nom": "Inter",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ],
+   "pile": "Inter,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "montserrat",
+   "nom": "Montserrat",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "audacieux",
+    "minimaliste"
+   ],
+   "pile": "Montserrat,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "lora",
+   "nom": "Lora",
+   "categorie": "serif",
+   "ambiances": [
+    "chaleureux",
+    "rassurant",
+    "artisanal"
+   ],
+   "pile": "Lora,Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "playfair-display",
+   "nom": "Playfair Display",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium"
+   ],
+   "pile": "'Playfair Display',Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "merriweather",
+   "nom": "Merriweather",
+   "categorie": "serif",
+   "ambiances": [
+    "sérieux",
+    "rassurant"
+   ],
+   "pile": "Merriweather,Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "nunito",
+   "nom": "Nunito",
+   "categorie": "arrondie",
+   "ambiances": [
+    "doux",
+    "chaleureux",
+    "naturel"
+   ],
+   "pile": "Nunito,ui-rounded,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "quicksand",
+   "nom": "Quicksand",
+   "categorie": "arrondie",
+   "ambiances": [
+    "joyeux",
+    "doux"
+   ],
+   "pile": "Quicksand,ui-rounded,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "fraunces",
+   "nom": "Fraunces",
+   "categorie": "serif",
+   "ambiances": [
+    "chaleureux",
+    "doux",
+    "artisanal"
+   ],
+   "pile": "Fraunces,Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "dm-serif-display",
+   "nom": "DM Serif Display",
+   "categorie": "serif",
+   "ambiances": [
+    "premium",
+    "élégant",
+    "sérieux"
+   ],
+   "pile": "'DM Serif Display',Georgia,serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "ibm-plex-mono",
+   "nom": "IBM Plex Mono",
+   "categorie": "monospace",
+   "ambiances": [
+    "moderne",
+    "sérieux",
+    "minimaliste"
+   ],
+   "pile": "'IBM Plex Mono',ui-monospace,monospace",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "caveat",
+   "nom": "Caveat",
+   "categorie": "script",
+   "ambiances": [
+    "artisanal",
+    "joyeux"
+   ],
+   "pile": "Caveat,'Comic Sans MS',cursive",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "open-sans",
+   "nom": "Open Sans",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "sérieux",
+    "rassurant",
+    "minimaliste"
+   ],
+   "pile": "'Open Sans',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "roboto",
+   "nom": "Roboto",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "sérieux",
+    "minimaliste"
+   ],
+   "pile": "Roboto,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "lato",
+   "nom": "Lato",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "rassurant",
+    "chaleureux",
+    "doux"
+   ],
+   "pile": "Lato,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "poppins",
+   "nom": "Poppins",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "joyeux",
+    "audacieux"
+   ],
+   "pile": "Poppins,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "raleway",
+   "nom": "Raleway",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "élégant",
+    "minimaliste",
+    "premium"
+   ],
+   "pile": "Raleway,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "oswald",
+   "nom": "Oswald",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "sérieux",
+    "moderne"
+   ],
+   "pile": "Oswald,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "bebas-neue",
+   "nom": "Bebas Neue",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "moderne"
+   ],
+   "pile": "'Bebas Neue',sans-serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "pacifico",
+   "nom": "Pacifico",
+   "categorie": "script",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux"
+   ],
+   "pile": "Pacifico,'Comic Sans MS',cursive",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "dancing-script",
+   "nom": "Dancing Script",
+   "categorie": "script",
+   "ambiances": [
+    "élégant",
+    "doux",
+    "artisanal"
+   ],
+   "pile": "'Dancing Script','Comic Sans MS',cursive",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "lobster",
+   "nom": "Lobster",
+   "categorie": "script",
+   "ambiances": [
+    "joyeux",
+    "audacieux",
+    "artisanal"
+   ],
+   "pile": "Lobster,'Comic Sans MS',cursive",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "cormorant-garamond",
+   "nom": "Cormorant Garamond",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "naturel"
+   ],
+   "pile": "'Cormorant Garamond',Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "libre-baskerville",
+   "nom": "Libre Baskerville",
+   "categorie": "serif",
+   "ambiances": [
+    "sérieux",
+    "premium",
+    "artisanal"
+   ],
+   "pile": "'Libre Baskerville',Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "crimson-pro",
+   "nom": "Crimson Pro",
+   "categorie": "serif",
+   "ambiances": [
+    "chaleureux",
+    "sérieux"
+   ],
+   "pile": "'Crimson Pro',Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "eb-garamond",
+   "nom": "EB Garamond",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "naturel"
+   ],
+   "pile": "'EB Garamond',Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "bitter",
+   "nom": "Bitter",
+   "categorie": "slab",
+   "ambiances": [
+    "sérieux",
+    "rassurant",
+    "artisanal"
+   ],
+   "pile": "Bitter,Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "josefin-sans",
+   "nom": "Josefin Sans",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "élégant",
+    "minimaliste",
+    "premium"
+   ],
+   "pile": "'Josefin Sans',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "work-sans",
+   "nom": "Work Sans",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "'Work Sans',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "karla",
+   "nom": "Karla",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "doux"
+   ],
+   "pile": "Karla,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "rubik",
+   "nom": "Rubik",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "joyeux",
+    "moderne",
+    "doux"
+   ],
+   "pile": "Rubik,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "mulish",
+   "nom": "Mulish",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "doux",
+    "minimaliste",
+    "moderne"
+   ],
+   "pile": "Mulish,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "manrope",
+   "nom": "Manrope",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Manrope,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "outfit",
+   "nom": "Outfit",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "joyeux"
+   ],
+   "pile": "Outfit,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "sora",
+   "nom": "Sora",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "audacieux"
+   ],
+   "pile": "Sora,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "lexend",
+   "nom": "Lexend",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "rassurant",
+    "moderne"
+   ],
+   "pile": "Lexend,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "space-grotesk",
+   "nom": "Space Grotesk",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "audacieux",
+    "sérieux"
+   ],
+   "pile": "'Space Grotesk',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "syne",
+   "nom": "Syne",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "artisanal",
+    "moderne"
+   ],
+   "pile": "Syne,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "unbounded",
+   "nom": "Unbounded",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "joyeux",
+    "moderne"
+   ],
+   "pile": "Unbounded,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "bricolage-grotesque",
+   "nom": "Bricolage Grotesque",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "audacieux",
+    "artisanal",
+    "moderne"
+   ],
+   "pile": "'Bricolage Grotesque',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "figtree",
+   "nom": "Figtree",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "rassurant"
+   ],
+   "pile": "Figtree,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "urbanist",
+   "nom": "Urbanist",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Urbanist,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "jost",
+   "nom": "Jost",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "élégant",
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Jost,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "archivo",
+   "nom": "Archivo",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "sérieux",
+    "audacieux"
+   ],
+   "pile": "Archivo,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "barlow",
+   "nom": "Barlow",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "sérieux",
+    "moderne",
+    "audacieux"
+   ],
+   "pile": "Barlow,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "anton",
+   "nom": "Anton",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "sérieux"
+   ],
+   "pile": "Anton,sans-serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "righteous",
+   "nom": "Righteous",
+   "categorie": "display",
+   "ambiances": [
+    "joyeux",
+    "audacieux"
+   ],
+   "pile": "Righteous,sans-serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "abril-fatface",
+   "nom": "Abril Fatface",
+   "categorie": "display",
+   "ambiances": [
+    "premium",
+    "élégant",
+    "audacieux"
+   ],
+   "pile": "'Abril Fatface',sans-serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "cinzel",
+   "nom": "Cinzel",
+   "categorie": "serif",
+   "ambiances": [
+    "premium",
+    "élégant"
+   ],
+   "pile": "Cinzel,Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "marcellus",
+   "nom": "Marcellus",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "naturel",
+    "premium"
+   ],
+   "pile": "Marcellus,Georgia,serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "yeseva-one",
+   "nom": "Yeseva One",
+   "categorie": "display",
+   "ambiances": [
+    "élégant",
+    "audacieux"
+   ],
+   "pile": "'Yeseva One',sans-serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "dm-sans",
+   "nom": "DM Sans",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "doux"
+   ],
+   "pile": "'DM Sans',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "plus-jakarta-sans",
+   "nom": "Plus Jakarta Sans",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "rassurant"
+   ],
+   "pile": "'Plus Jakarta Sans',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "source-sans-3",
+   "nom": "Source Sans 3",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "sérieux",
+    "rassurant"
+   ],
+   "pile": "'Source Sans 3',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "pt-serif",
+   "nom": "PT Serif",
+   "categorie": "serif",
+   "ambiances": [
+    "sérieux",
+    "chaleureux"
+   ],
+   "pile": "'PT Serif',Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "gloock",
+   "nom": "Gloock",
+   "categorie": "serif",
+   "ambiances": [
+    "premium",
+    "élégant",
+    "audacieux"
+   ],
+   "pile": "Gloock,Georgia,serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "bodoni-moda",
+   "nom": "Bodoni Moda",
+   "categorie": "serif",
+   "ambiances": [
+    "premium",
+    "élégant"
+   ],
+   "pile": "'Bodoni Moda',Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "italiana",
+   "nom": "Italiana",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "minimaliste"
+   ],
+   "pile": "Italiana,Georgia,serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "tenor-sans",
+   "nom": "Tenor Sans",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "élégant",
+    "minimaliste",
+    "naturel"
+   ],
+   "pile": "'Tenor Sans',system-ui,sans-serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "kalam",
+   "nom": "Kalam",
+   "categorie": "script",
+   "ambiances": [
+    "artisanal",
+    "joyeux",
+    "doux"
+   ],
+   "pile": "Kalam,'Comic Sans MS',cursive",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "permanent-marker",
+   "nom": "Permanent Marker",
+   "categorie": "script",
+   "ambiances": [
+    "audacieux",
+    "joyeux"
+   ],
+   "pile": "'Permanent Marker','Comic Sans MS',cursive",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "amatic-sc",
+   "nom": "Amatic SC",
+   "categorie": "script",
+   "ambiances": [
+    "artisanal",
+    "naturel",
+    "doux"
+   ],
+   "pile": "'Amatic SC','Comic Sans MS',cursive",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "satisfy",
+   "nom": "Satisfy",
+   "categorie": "script",
+   "ambiances": [
+    "élégant",
+    "doux"
+   ],
+   "pile": "Satisfy,'Comic Sans MS',cursive",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "courgette",
+   "nom": "Courgette",
+   "categorie": "script",
+   "ambiances": [
+    "joyeux",
+    "doux"
+   ],
+   "pile": "Courgette,'Comic Sans MS',cursive",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "bungee",
+   "nom": "Bungee",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "joyeux",
+    "moderne"
+   ],
+   "pile": "Bungee,sans-serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "chivo",
+   "nom": "Chivo",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "sérieux"
+   ],
+   "pile": "Chivo,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "zilla-slab",
+   "nom": "Zilla Slab",
+   "categorie": "slab",
+   "ambiances": [
+    "artisanal",
+    "sérieux"
+   ],
+   "pile": "'Zilla Slab',Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "arvo",
+   "nom": "Arvo",
+   "categorie": "slab",
+   "ambiances": [
+    "artisanal",
+    "naturel"
+   ],
+   "pile": "Arvo,Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "cabin",
+   "nom": "Cabin",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "chaleureux",
+    "rassurant"
+   ],
+   "pile": "Cabin,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "jetbrains-mono",
+   "nom": "JetBrains Mono",
+   "categorie": "monospace",
+   "ambiances": [
+    "moderne",
+    "sérieux",
+    "minimaliste"
+   ],
+   "pile": "'JetBrains Mono',ui-monospace,monospace",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "space-mono",
+   "nom": "Space Mono",
+   "categorie": "monospace",
+   "ambiances": [
+    "audacieux",
+    "moderne"
+   ],
+   "pile": "'Space Mono',ui-monospace,monospace",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "fjalla-one",
+   "nom": "Fjalla One",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "sérieux"
+   ],
+   "pile": "'Fjalla One',sans-serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "hanken-grotesk",
+   "nom": "Hanken Grotesk",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "'Hanken Grotesk',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "noto-serif-display",
+   "nom": "Noto Serif Display",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "sérieux"
+   ],
+   "pile": "'Noto Serif Display',Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "alegreya",
+   "nom": "Alegreya",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ],
+   "pile": "Alegreya,Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "alegreya-sans",
+   "nom": "Alegreya Sans",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "'Alegreya Sans',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "amaranth",
+   "nom": "Amaranth",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Amaranth,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "anonymous-pro",
+   "nom": "Anonymous Pro",
+   "categorie": "monospace",
+   "ambiances": [
+    "moderne",
+    "sérieux"
+   ],
+   "pile": "'Anonymous Pro',ui-monospace,monospace",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "arimo",
+   "nom": "Arimo",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Arimo,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "asap",
+   "nom": "Asap",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Asap,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "assistant",
+   "nom": "Assistant",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Assistant,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "baloo-2",
+   "nom": "Baloo 2",
+   "categorie": "arrondie",
+   "ambiances": [
+    "doux",
+    "joyeux"
+   ],
+   "pile": "'Baloo 2',ui-rounded,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "bangers",
+   "nom": "Bangers",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "moderne"
+   ],
+   "pile": "Bangers,sans-serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "barlow-condensed",
+   "nom": "Barlow Condensed",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "moderne"
+   ],
+   "pile": "'Barlow Condensed',sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "be-vietnam-pro",
+   "nom": "Be Vietnam Pro",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "'Be Vietnam Pro',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "bevan",
+   "nom": "Bevan",
+   "categorie": "slab",
+   "ambiances": [
+    "artisanal",
+    "sérieux"
+   ],
+   "pile": "Bevan,Georgia,serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "bowlby-one",
+   "nom": "Bowlby One",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "moderne"
+   ],
+   "pile": "'Bowlby One',sans-serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "cairo",
+   "nom": "Cairo",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Cairo,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "caprasimo",
+   "nom": "Caprasimo",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "moderne"
+   ],
+   "pile": "Caprasimo,sans-serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "catamaran",
+   "nom": "Catamaran",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Catamaran,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "chakra-petch",
+   "nom": "Chakra Petch",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "moderne"
+   ],
+   "pile": "'Chakra Petch',sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "comfortaa",
+   "nom": "Comfortaa",
+   "categorie": "arrondie",
+   "ambiances": [
+    "doux",
+    "joyeux"
+   ],
+   "pile": "Comfortaa,ui-rounded,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "cormorant",
+   "nom": "Cormorant",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ],
+   "pile": "Cormorant,Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "cuprum",
+   "nom": "Cuprum",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Cuprum,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "dela-gothic-one",
+   "nom": "Dela Gothic One",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "moderne"
+   ],
+   "pile": "'Dela Gothic One',sans-serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "dosis",
+   "nom": "Dosis",
+   "categorie": "arrondie",
+   "ambiances": [
+    "doux",
+    "joyeux"
+   ],
+   "pile": "Dosis,ui-rounded,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "domine",
+   "nom": "Domine",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ],
+   "pile": "Domine,Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "exo",
+   "nom": "Exo",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Exo,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "fira-sans",
+   "nom": "Fira Sans",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "'Fira Sans',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "frank-ruhl-libre",
+   "nom": "Frank Ruhl Libre",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ],
+   "pile": "'Frank Ruhl Libre',Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "gelasio",
+   "nom": "Gelasio",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ],
+   "pile": "Gelasio,Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "gilda-display",
+   "nom": "Gilda Display",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ],
+   "pile": "'Gilda Display',Georgia,serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "glory",
+   "nom": "Glory",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Glory,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "gothic-a1",
+   "nom": "Gothic A1",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "'Gothic A1',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "hind",
+   "nom": "Hind",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Hind,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "ibm-plex-sans",
+   "nom": "IBM Plex Sans",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "'IBM Plex Sans',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "ibm-plex-serif",
+   "nom": "IBM Plex Serif",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ],
+   "pile": "'IBM Plex Serif',Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "instrument-sans",
+   "nom": "Instrument Sans",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "'Instrument Sans',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "instrument-serif",
+   "nom": "Instrument Serif",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ],
+   "pile": "'Instrument Serif',Georgia,serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "kanit",
+   "nom": "Kanit",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Kanit,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "kumbh-sans",
+   "nom": "Kumbh Sans",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "'Kumbh Sans',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "lilita-one",
+   "nom": "Lilita One",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "moderne"
+   ],
+   "pile": "'Lilita One',sans-serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "literata",
+   "nom": "Literata",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ],
+   "pile": "Literata,Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "lobster-two",
+   "nom": "Lobster Two",
+   "categorie": "script",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux"
+   ],
+   "pile": "'Lobster Two','Comic Sans MS',cursive",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "maven-pro",
+   "nom": "Maven Pro",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "'Maven Pro',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "mukta",
+   "nom": "Mukta",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Mukta,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "newsreader",
+   "nom": "Newsreader",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ],
+   "pile": "Newsreader,Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "noto-sans",
+   "nom": "Noto Sans",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "'Noto Sans',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "orbitron",
+   "nom": "Orbitron",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "moderne"
+   ],
+   "pile": "Orbitron,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "overpass",
+   "nom": "Overpass",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Overpass,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "oxygen",
+   "nom": "Oxygen",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Oxygen,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "philosopher",
+   "nom": "Philosopher",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Philosopher,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "prata",
+   "nom": "Prata",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ],
+   "pile": "Prata,Georgia,serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "prompt",
+   "nom": "Prompt",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Prompt,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "quattrocento",
+   "nom": "Quattrocento",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ],
+   "pile": "Quattrocento,Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "red-hat-display",
+   "nom": "Red Hat Display",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "'Red Hat Display',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "roboto-condensed",
+   "nom": "Roboto Condensed",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "'Roboto Condensed',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "roboto-mono",
+   "nom": "Roboto Mono",
+   "categorie": "monospace",
+   "ambiances": [
+    "moderne",
+    "sérieux"
+   ],
+   "pile": "'Roboto Mono',ui-monospace,monospace",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "rowdies",
+   "nom": "Rowdies",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "moderne"
+   ],
+   "pile": "Rowdies,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "sansita",
+   "nom": "Sansita",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "moderne"
+   ],
+   "pile": "Sansita,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "signika",
+   "nom": "Signika",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Signika,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "spectral",
+   "nom": "Spectral",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ],
+   "pile": "Spectral,Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "syncopate",
+   "nom": "Syncopate",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Syncopate,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "teko",
+   "nom": "Teko",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "moderne"
+   ],
+   "pile": "Teko,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "vollkorn",
+   "nom": "Vollkorn",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ],
+   "pile": "Vollkorn,Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "fredoka",
+   "nom": "Fredoka",
+   "categorie": "arrondie",
+   "ambiances": [
+    "doux",
+    "joyeux"
+   ],
+   "pile": "Fredoka,ui-rounded,system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "chewy",
+   "nom": "Chewy",
+   "categorie": "script",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux"
+   ],
+   "pile": "Chewy,'Comic Sans MS',cursive",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "comic-neue",
+   "nom": "Comic Neue",
+   "categorie": "script",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux"
+   ],
+   "pile": "'Comic Neue','Comic Sans MS',cursive",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "indie-flower",
+   "nom": "Indie Flower",
+   "categorie": "script",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux"
+   ],
+   "pile": "'Indie Flower','Comic Sans MS',cursive",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "architects-daughter",
+   "nom": "Architects Daughter",
+   "categorie": "script",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux"
+   ],
+   "pile": "'Architects Daughter','Comic Sans MS',cursive",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "caveat-brush",
+   "nom": "Caveat Brush",
+   "categorie": "script",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux"
+   ],
+   "pile": "'Caveat Brush','Comic Sans MS',cursive",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "homemade-apple",
+   "nom": "Homemade Apple",
+   "categorie": "script",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux"
+   ],
+   "pile": "'Homemade Apple','Comic Sans MS',cursive",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "monoton",
+   "nom": "Monoton",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "moderne"
+   ],
+   "pile": "Monoton,sans-serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "rubik-mono-one",
+   "nom": "Rubik Mono One",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "moderne"
+   ],
+   "pile": "'Rubik Mono One',sans-serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "bagel-fat-one",
+   "nom": "Bagel Fat One",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "moderne"
+   ],
+   "pile": "'Bagel Fat One',sans-serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "cherry-bomb-one",
+   "nom": "Cherry Bomb One",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "moderne"
+   ],
+   "pile": "'Cherry Bomb One',sans-serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "vidaloka",
+   "nom": "Vidaloka",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ],
+   "pile": "Vidaloka,Georgia,serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "young-serif",
+   "nom": "Young Serif",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ],
+   "pile": "'Young Serif',Georgia,serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "rozha-one",
+   "nom": "Rozha One",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ],
+   "pile": "'Rozha One',Georgia,serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "shrikhand",
+   "nom": "Shrikhand",
+   "categorie": "script",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux"
+   ],
+   "pile": "Shrikhand,'Comic Sans MS',cursive",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "unica-one",
+   "nom": "Unica One",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "moderne"
+   ],
+   "pile": "'Unica One',sans-serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "zen-kaku-gothic-new",
+   "nom": "Zen Kaku Gothic New",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "'Zen Kaku Gothic New',system-ui,sans-serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "bungee-shade",
+   "nom": "Bungee Shade",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "moderne"
+   ],
+   "pile": "'Bungee Shade',sans-serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "climate-crisis",
+   "nom": "Climate Crisis",
+   "categorie": "display",
+   "ambiances": [
+    "audacieux",
+    "moderne"
+   ],
+   "pile": "'Climate Crisis',sans-serif",
+   "poids": [
+    400
+   ]
+  },
+  {
+   "id": "almendra",
+   "nom": "Almendra",
+   "categorie": "serif",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ],
+   "pile": "Almendra,Georgia,serif",
+   "poids": [
+    400,
+    700
+   ]
+  },
+  {
+   "id": "belleza",
+   "nom": "Belleza",
+   "categorie": "sans-serif",
+   "ambiances": [
+    "moderne",
+    "minimaliste"
+   ],
+   "pile": "Belleza,system-ui,sans-serif",
+   "poids": [
+    400
+   ]
+  }
+ ],
+ "couples": [
+  {
+   "id": "inter-ibm-plex-mono",
+   "titres": "inter",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "inter-jetbrains-mono",
+   "titres": "inter",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "montserrat-ibm-plex-mono",
+   "titres": "montserrat",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "audacieux",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "montserrat-jetbrains-mono",
+   "titres": "montserrat",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "audacieux",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "lora-bitter",
+   "titres": "lora",
+   "texte": "bitter",
+   "ambiances": [
+    "chaleureux",
+    "rassurant",
+    "artisanal",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "lora-cabin",
+   "titres": "lora",
+   "texte": "cabin",
+   "ambiances": [
+    "chaleureux",
+    "rassurant",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "playfair-display-raleway",
+   "titres": "playfair-display",
+   "texte": "raleway",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "minimaliste"
+   ]
+  },
+  {
+   "id": "playfair-display-alegreya",
+   "titres": "playfair-display",
+   "texte": "alegreya",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "nunito-lato",
+   "titres": "nunito",
+   "texte": "lato",
+   "ambiances": [
+    "doux",
+    "chaleureux",
+    "naturel",
+    "rassurant"
+   ]
+  },
+  {
+   "id": "nunito-alegreya",
+   "titres": "nunito",
+   "texte": "alegreya",
+   "ambiances": [
+    "doux",
+    "chaleureux",
+    "naturel",
+    "élégant",
+    "premium"
+   ]
+  },
+  {
+   "id": "quicksand-comic-neue",
+   "titres": "quicksand",
+   "texte": "comic-neue",
+   "ambiances": [
+    "joyeux",
+    "doux",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "quicksand-rubik",
+   "titres": "quicksand",
+   "texte": "rubik",
+   "ambiances": [
+    "joyeux",
+    "doux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "fraunces-comic-neue",
+   "titres": "fraunces",
+   "texte": "comic-neue",
+   "ambiances": [
+    "chaleureux",
+    "doux",
+    "artisanal",
+    "joyeux"
+   ]
+  },
+  {
+   "id": "fraunces-lato",
+   "titres": "fraunces",
+   "texte": "lato",
+   "ambiances": [
+    "chaleureux",
+    "doux",
+    "artisanal",
+    "rassurant"
+   ]
+  },
+  {
+   "id": "dm-serif-display-raleway",
+   "titres": "dm-serif-display",
+   "texte": "raleway",
+   "ambiances": [
+    "premium",
+    "élégant",
+    "sérieux",
+    "minimaliste"
+   ]
+  },
+  {
+   "id": "dm-serif-display-alegreya",
+   "titres": "dm-serif-display",
+   "texte": "alegreya",
+   "ambiances": [
+    "premium",
+    "élégant",
+    "sérieux",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "caveat-bricolage-grotesque",
+   "titres": "caveat",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "artisanal",
+    "joyeux",
+    "audacieux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "caveat-comic-neue",
+   "titres": "caveat",
+   "texte": "comic-neue",
+   "ambiances": [
+    "artisanal",
+    "joyeux",
+    "doux"
+   ]
+  },
+  {
+   "id": "open-sans-bitter",
+   "titres": "open-sans",
+   "texte": "bitter",
+   "ambiances": [
+    "sérieux",
+    "rassurant",
+    "minimaliste",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "open-sans-ibm-plex-mono",
+   "titres": "open-sans",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "sérieux",
+    "rassurant",
+    "minimaliste",
+    "moderne"
+   ]
+  },
+  {
+   "id": "roboto-ibm-plex-mono",
+   "titres": "roboto",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "sérieux",
+    "minimaliste"
+   ]
+  },
+  {
+   "id": "roboto-jetbrains-mono",
+   "titres": "roboto",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "sérieux",
+    "minimaliste"
+   ]
+  },
+  {
+   "id": "lato-lora",
+   "titres": "lato",
+   "texte": "lora",
+   "ambiances": [
+    "rassurant",
+    "chaleureux",
+    "doux",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "lato-nunito",
+   "titres": "lato",
+   "texte": "nunito",
+   "ambiances": [
+    "rassurant",
+    "chaleureux",
+    "doux",
+    "naturel"
+   ]
+  },
+  {
+   "id": "poppins-space-mono",
+   "titres": "poppins",
+   "texte": "space-mono",
+   "ambiances": [
+    "moderne",
+    "joyeux",
+    "audacieux"
+   ]
+  },
+  {
+   "id": "poppins-barlow",
+   "titres": "poppins",
+   "texte": "barlow",
+   "ambiances": [
+    "moderne",
+    "joyeux",
+    "audacieux",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "raleway-alegreya",
+   "titres": "raleway",
+   "texte": "alegreya",
+   "ambiances": [
+    "élégant",
+    "minimaliste",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "raleway-almendra",
+   "titres": "raleway",
+   "texte": "almendra",
+   "ambiances": [
+    "élégant",
+    "minimaliste",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "oswald-barlow",
+   "titres": "oswald",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "sérieux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "oswald-space-grotesk",
+   "titres": "oswald",
+   "texte": "space-grotesk",
+   "ambiances": [
+    "audacieux",
+    "sérieux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "bebas-neue-barlow",
+   "titres": "bebas-neue",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "bebas-neue-bricolage-grotesque",
+   "titres": "bebas-neue",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "pacifico-comic-neue",
+   "titres": "pacifico",
+   "texte": "comic-neue",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux"
+   ]
+  },
+  {
+   "id": "pacifico-rubik",
+   "titres": "pacifico",
+   "texte": "rubik",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "dancing-script-bricolage-grotesque",
+   "titres": "dancing-script",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "élégant",
+    "doux",
+    "artisanal",
+    "audacieux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "dancing-script-comic-neue",
+   "titres": "dancing-script",
+   "texte": "comic-neue",
+   "ambiances": [
+    "élégant",
+    "doux",
+    "artisanal",
+    "joyeux"
+   ]
+  },
+  {
+   "id": "lobster-bricolage-grotesque",
+   "titres": "lobster",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "joyeux",
+    "audacieux",
+    "artisanal",
+    "moderne"
+   ]
+  },
+  {
+   "id": "lobster-poppins",
+   "titres": "lobster",
+   "texte": "poppins",
+   "ambiances": [
+    "joyeux",
+    "audacieux",
+    "artisanal",
+    "moderne"
+   ]
+  },
+  {
+   "id": "cormorant-garamond-eb-garamond",
+   "titres": "cormorant-garamond",
+   "texte": "eb-garamond",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "naturel"
+   ]
+  },
+  {
+   "id": "cormorant-garamond-raleway",
+   "titres": "cormorant-garamond",
+   "texte": "raleway",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "naturel",
+    "minimaliste"
+   ]
+  },
+  {
+   "id": "libre-baskerville-bitter",
+   "titres": "libre-baskerville",
+   "texte": "bitter",
+   "ambiances": [
+    "sérieux",
+    "premium",
+    "artisanal",
+    "rassurant"
+   ]
+  },
+  {
+   "id": "libre-baskerville-zilla-slab",
+   "titres": "libre-baskerville",
+   "texte": "zilla-slab",
+   "ambiances": [
+    "sérieux",
+    "premium",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "eb-garamond-cormorant-garamond",
+   "titres": "eb-garamond",
+   "texte": "cormorant-garamond",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "naturel"
+   ]
+  },
+  {
+   "id": "eb-garamond-raleway",
+   "titres": "eb-garamond",
+   "texte": "raleway",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "naturel",
+    "minimaliste"
+   ]
+  },
+  {
+   "id": "bitter-atkinson-hyperlegible",
+   "titres": "bitter",
+   "texte": "atkinson-hyperlegible",
+   "ambiances": [
+    "sérieux",
+    "rassurant",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "bitter-libre-baskerville",
+   "titres": "bitter",
+   "texte": "libre-baskerville",
+   "ambiances": [
+    "sérieux",
+    "rassurant",
+    "artisanal",
+    "premium"
+   ]
+  },
+  {
+   "id": "josefin-sans-raleway",
+   "titres": "josefin-sans",
+   "texte": "raleway",
+   "ambiances": [
+    "élégant",
+    "minimaliste",
+    "premium"
+   ]
+  },
+  {
+   "id": "josefin-sans-alegreya",
+   "titres": "josefin-sans",
+   "texte": "alegreya",
+   "ambiances": [
+    "élégant",
+    "minimaliste",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "rubik-baloo-2",
+   "titres": "rubik",
+   "texte": "baloo-2",
+   "ambiances": [
+    "joyeux",
+    "moderne",
+    "doux"
+   ]
+  },
+  {
+   "id": "rubik-comfortaa",
+   "titres": "rubik",
+   "texte": "comfortaa",
+   "ambiances": [
+    "joyeux",
+    "moderne",
+    "doux"
+   ]
+  },
+  {
+   "id": "mulish-ibm-plex-mono",
+   "titres": "mulish",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "doux",
+    "minimaliste",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "mulish-jetbrains-mono",
+   "titres": "mulish",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "doux",
+    "minimaliste",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "manrope-ibm-plex-mono",
+   "titres": "manrope",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "manrope-jetbrains-mono",
+   "titres": "manrope",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "outfit-ibm-plex-mono",
+   "titres": "outfit",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "joyeux",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "outfit-jetbrains-mono",
+   "titres": "outfit",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "joyeux",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "sora-space-mono",
+   "titres": "sora",
+   "texte": "space-mono",
+   "ambiances": [
+    "moderne",
+    "audacieux"
+   ]
+  },
+  {
+   "id": "sora-barlow",
+   "titres": "sora",
+   "texte": "barlow",
+   "ambiances": [
+    "moderne",
+    "audacieux",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "lexend-figtree",
+   "titres": "lexend",
+   "texte": "figtree",
+   "ambiances": [
+    "rassurant",
+    "moderne"
+   ]
+  },
+  {
+   "id": "lexend-plus-jakarta-sans",
+   "titres": "lexend",
+   "texte": "plus-jakarta-sans",
+   "ambiances": [
+    "rassurant",
+    "moderne"
+   ]
+  },
+  {
+   "id": "space-grotesk-barlow",
+   "titres": "space-grotesk",
+   "texte": "barlow",
+   "ambiances": [
+    "moderne",
+    "audacieux",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "space-grotesk-anonymous-pro",
+   "titres": "space-grotesk",
+   "texte": "anonymous-pro",
+   "ambiances": [
+    "moderne",
+    "audacieux",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "syne-bricolage-grotesque",
+   "titres": "syne",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "artisanal",
+    "moderne"
+   ]
+  },
+  {
+   "id": "syne-barlow",
+   "titres": "syne",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "artisanal",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "unbounded-poppins",
+   "titres": "unbounded",
+   "texte": "poppins",
+   "ambiances": [
+    "audacieux",
+    "joyeux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "unbounded-barlow",
+   "titres": "unbounded",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "joyeux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "bricolage-grotesque-space-mono",
+   "titres": "bricolage-grotesque",
+   "texte": "space-mono",
+   "ambiances": [
+    "audacieux",
+    "artisanal",
+    "moderne"
+   ]
+  },
+  {
+   "id": "bricolage-grotesque-barlow",
+   "titres": "bricolage-grotesque",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "artisanal",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "figtree-lexend",
+   "titres": "figtree",
+   "texte": "lexend",
+   "ambiances": [
+    "moderne",
+    "rassurant"
+   ]
+  },
+  {
+   "id": "figtree-plus-jakarta-sans",
+   "titres": "figtree",
+   "texte": "plus-jakarta-sans",
+   "ambiances": [
+    "moderne",
+    "rassurant"
+   ]
+  },
+  {
+   "id": "urbanist-ibm-plex-mono",
+   "titres": "urbanist",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "urbanist-jetbrains-mono",
+   "titres": "urbanist",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "jost-ibm-plex-mono",
+   "titres": "jost",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "élégant",
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "jost-jetbrains-mono",
+   "titres": "jost",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "élégant",
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "archivo-barlow",
+   "titres": "archivo",
+   "texte": "barlow",
+   "ambiances": [
+    "sérieux",
+    "audacieux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "archivo-space-grotesk",
+   "titres": "archivo",
+   "texte": "space-grotesk",
+   "ambiances": [
+    "sérieux",
+    "audacieux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "barlow-space-grotesk",
+   "titres": "barlow",
+   "texte": "space-grotesk",
+   "ambiances": [
+    "sérieux",
+    "moderne",
+    "audacieux"
+   ]
+  },
+  {
+   "id": "barlow-anonymous-pro",
+   "titres": "barlow",
+   "texte": "anonymous-pro",
+   "ambiances": [
+    "sérieux",
+    "moderne",
+    "audacieux"
+   ]
+  },
+  {
+   "id": "anton-archivo",
+   "titres": "anton",
+   "texte": "archivo",
+   "ambiances": [
+    "audacieux",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "anton-barlow",
+   "titres": "anton",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "sérieux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "righteous-poppins",
+   "titres": "righteous",
+   "texte": "poppins",
+   "ambiances": [
+    "joyeux",
+    "audacieux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "righteous-archivo",
+   "titres": "righteous",
+   "texte": "archivo",
+   "ambiances": [
+    "joyeux",
+    "audacieux",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "abril-fatface-alegreya",
+   "titres": "abril-fatface",
+   "texte": "alegreya",
+   "ambiances": [
+    "premium",
+    "élégant",
+    "audacieux",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "abril-fatface-almendra",
+   "titres": "abril-fatface",
+   "texte": "almendra",
+   "ambiances": [
+    "premium",
+    "élégant",
+    "audacieux",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "cinzel-raleway",
+   "titres": "cinzel",
+   "texte": "raleway",
+   "ambiances": [
+    "premium",
+    "élégant",
+    "minimaliste"
+   ]
+  },
+  {
+   "id": "cinzel-alegreya",
+   "titres": "cinzel",
+   "texte": "alegreya",
+   "ambiances": [
+    "premium",
+    "élégant",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "marcellus-cormorant-garamond",
+   "titres": "marcellus",
+   "texte": "cormorant-garamond",
+   "ambiances": [
+    "élégant",
+    "naturel",
+    "premium"
+   ]
+  },
+  {
+   "id": "marcellus-eb-garamond",
+   "titres": "marcellus",
+   "texte": "eb-garamond",
+   "ambiances": [
+    "élégant",
+    "naturel",
+    "premium"
+   ]
+  },
+  {
+   "id": "yeseva-one-alegreya",
+   "titres": "yeseva-one",
+   "texte": "alegreya",
+   "ambiances": [
+    "élégant",
+    "audacieux",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "yeseva-one-almendra",
+   "titres": "yeseva-one",
+   "texte": "almendra",
+   "ambiances": [
+    "élégant",
+    "audacieux",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "dm-sans-karla",
+   "titres": "dm-sans",
+   "texte": "karla",
+   "ambiances": [
+    "moderne",
+    "doux"
+   ]
+  },
+  {
+   "id": "dm-sans-mulish",
+   "titres": "dm-sans",
+   "texte": "mulish",
+   "ambiances": [
+    "moderne",
+    "doux",
+    "minimaliste"
+   ]
+  },
+  {
+   "id": "plus-jakarta-sans-figtree",
+   "titres": "plus-jakarta-sans",
+   "texte": "figtree",
+   "ambiances": [
+    "moderne",
+    "rassurant"
+   ]
+  },
+  {
+   "id": "plus-jakarta-sans-lexend",
+   "titres": "plus-jakarta-sans",
+   "texte": "lexend",
+   "ambiances": [
+    "moderne",
+    "rassurant"
+   ]
+  },
+  {
+   "id": "gloock-raleway",
+   "titres": "gloock",
+   "texte": "raleway",
+   "ambiances": [
+    "premium",
+    "élégant",
+    "audacieux",
+    "minimaliste"
+   ]
+  },
+  {
+   "id": "gloock-alegreya",
+   "titres": "gloock",
+   "texte": "alegreya",
+   "ambiances": [
+    "premium",
+    "élégant",
+    "audacieux",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "bodoni-moda-raleway",
+   "titres": "bodoni-moda",
+   "texte": "raleway",
+   "ambiances": [
+    "premium",
+    "élégant",
+    "minimaliste"
+   ]
+  },
+  {
+   "id": "bodoni-moda-alegreya",
+   "titres": "bodoni-moda",
+   "texte": "alegreya",
+   "ambiances": [
+    "premium",
+    "élégant",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "italiana-raleway",
+   "titres": "italiana",
+   "texte": "raleway",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "minimaliste"
+   ]
+  },
+  {
+   "id": "italiana-jost",
+   "titres": "italiana",
+   "texte": "jost",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "minimaliste",
+    "moderne"
+   ]
+  },
+  {
+   "id": "tenor-sans-cormorant-garamond",
+   "titres": "tenor-sans",
+   "texte": "cormorant-garamond",
+   "ambiances": [
+    "élégant",
+    "minimaliste",
+    "naturel",
+    "premium"
+   ]
+  },
+  {
+   "id": "tenor-sans-eb-garamond",
+   "titres": "tenor-sans",
+   "texte": "eb-garamond",
+   "ambiances": [
+    "élégant",
+    "minimaliste",
+    "naturel",
+    "premium"
+   ]
+  },
+  {
+   "id": "kalam-comic-neue",
+   "titres": "kalam",
+   "texte": "comic-neue",
+   "ambiances": [
+    "artisanal",
+    "joyeux",
+    "doux"
+   ]
+  },
+  {
+   "id": "kalam-rubik",
+   "titres": "kalam",
+   "texte": "rubik",
+   "ambiances": [
+    "artisanal",
+    "joyeux",
+    "doux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "permanent-marker-poppins",
+   "titres": "permanent-marker",
+   "texte": "poppins",
+   "ambiances": [
+    "audacieux",
+    "joyeux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "permanent-marker-archivo",
+   "titres": "permanent-marker",
+   "texte": "archivo",
+   "ambiances": [
+    "audacieux",
+    "joyeux",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "amatic-sc-arvo",
+   "titres": "amatic-sc",
+   "texte": "arvo",
+   "ambiances": [
+    "artisanal",
+    "naturel",
+    "doux"
+   ]
+  },
+  {
+   "id": "amatic-sc-nunito",
+   "titres": "amatic-sc",
+   "texte": "nunito",
+   "ambiances": [
+    "artisanal",
+    "naturel",
+    "doux",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "satisfy-dm-sans",
+   "titres": "satisfy",
+   "texte": "dm-sans",
+   "ambiances": [
+    "élégant",
+    "doux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "satisfy-jost",
+   "titres": "satisfy",
+   "texte": "jost",
+   "ambiances": [
+    "élégant",
+    "doux",
+    "moderne",
+    "minimaliste"
+   ]
+  },
+  {
+   "id": "courgette-rubik",
+   "titres": "courgette",
+   "texte": "rubik",
+   "ambiances": [
+    "joyeux",
+    "doux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "courgette-baloo-2",
+   "titres": "courgette",
+   "texte": "baloo-2",
+   "ambiances": [
+    "joyeux",
+    "doux"
+   ]
+  },
+  {
+   "id": "bungee-poppins",
+   "titres": "bungee",
+   "texte": "poppins",
+   "ambiances": [
+    "audacieux",
+    "joyeux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "bungee-barlow",
+   "titres": "bungee",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "joyeux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "chivo-anonymous-pro",
+   "titres": "chivo",
+   "texte": "anonymous-pro",
+   "ambiances": [
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "chivo-ibm-plex-mono",
+   "titres": "chivo",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "sérieux",
+    "minimaliste"
+   ]
+  },
+  {
+   "id": "zilla-slab-libre-baskerville",
+   "titres": "zilla-slab",
+   "texte": "libre-baskerville",
+   "ambiances": [
+    "artisanal",
+    "sérieux",
+    "premium"
+   ]
+  },
+  {
+   "id": "zilla-slab-bitter",
+   "titres": "zilla-slab",
+   "texte": "bitter",
+   "ambiances": [
+    "artisanal",
+    "sérieux",
+    "rassurant"
+   ]
+  },
+  {
+   "id": "arvo-bricolage-grotesque",
+   "titres": "arvo",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "artisanal",
+    "naturel",
+    "audacieux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "arvo-comic-neue",
+   "titres": "arvo",
+   "texte": "comic-neue",
+   "ambiances": [
+    "artisanal",
+    "naturel",
+    "joyeux",
+    "doux"
+   ]
+  },
+  {
+   "id": "cabin-lora",
+   "titres": "cabin",
+   "texte": "lora",
+   "ambiances": [
+    "chaleureux",
+    "rassurant",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "cabin-lato",
+   "titres": "cabin",
+   "texte": "lato",
+   "ambiances": [
+    "chaleureux",
+    "rassurant",
+    "doux"
+   ]
+  },
+  {
+   "id": "space-mono-barlow",
+   "titres": "space-mono",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "space-mono-bricolage-grotesque",
+   "titres": "space-mono",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "fjalla-one-archivo",
+   "titres": "fjalla-one",
+   "texte": "archivo",
+   "ambiances": [
+    "audacieux",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "fjalla-one-barlow",
+   "titres": "fjalla-one",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "sérieux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "hanken-grotesk-ibm-plex-mono",
+   "titres": "hanken-grotesk",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "hanken-grotesk-jetbrains-mono",
+   "titres": "hanken-grotesk",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "noto-serif-display-raleway",
+   "titres": "noto-serif-display",
+   "texte": "raleway",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "sérieux",
+    "minimaliste"
+   ]
+  },
+  {
+   "id": "noto-serif-display-alegreya",
+   "titres": "noto-serif-display",
+   "texte": "alegreya",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "sérieux",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "alegreya-almendra",
+   "titres": "alegreya",
+   "texte": "almendra",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "alegreya-cormorant",
+   "titres": "alegreya",
+   "texte": "cormorant",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "alegreya-sans-ibm-plex-mono",
+   "titres": "alegreya-sans",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "alegreya-sans-jetbrains-mono",
+   "titres": "alegreya-sans",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "amaranth-ibm-plex-mono",
+   "titres": "amaranth",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "amaranth-jetbrains-mono",
+   "titres": "amaranth",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "arimo-ibm-plex-mono",
+   "titres": "arimo",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "arimo-jetbrains-mono",
+   "titres": "arimo",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "asap-ibm-plex-mono",
+   "titres": "asap",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "asap-jetbrains-mono",
+   "titres": "asap",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "assistant-ibm-plex-mono",
+   "titres": "assistant",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "assistant-jetbrains-mono",
+   "titres": "assistant",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "baloo-2-comic-neue",
+   "titres": "baloo-2",
+   "texte": "comic-neue",
+   "ambiances": [
+    "doux",
+    "joyeux",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "baloo-2-rubik",
+   "titres": "baloo-2",
+   "texte": "rubik",
+   "ambiances": [
+    "doux",
+    "joyeux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "bangers-barlow",
+   "titres": "bangers",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "bangers-bricolage-grotesque",
+   "titres": "bangers",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "barlow-condensed-barlow",
+   "titres": "barlow-condensed",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "barlow-condensed-bricolage-grotesque",
+   "titres": "barlow-condensed",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "be-vietnam-pro-ibm-plex-mono",
+   "titres": "be-vietnam-pro",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "be-vietnam-pro-jetbrains-mono",
+   "titres": "be-vietnam-pro",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "bevan-libre-baskerville",
+   "titres": "bevan",
+   "texte": "libre-baskerville",
+   "ambiances": [
+    "artisanal",
+    "sérieux",
+    "premium"
+   ]
+  },
+  {
+   "id": "bevan-bitter",
+   "titres": "bevan",
+   "texte": "bitter",
+   "ambiances": [
+    "artisanal",
+    "sérieux",
+    "rassurant"
+   ]
+  },
+  {
+   "id": "bowlby-one-barlow",
+   "titres": "bowlby-one",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "bowlby-one-bricolage-grotesque",
+   "titres": "bowlby-one",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "cairo-ibm-plex-mono",
+   "titres": "cairo",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "cairo-jetbrains-mono",
+   "titres": "cairo",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "caprasimo-barlow",
+   "titres": "caprasimo",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "caprasimo-bricolage-grotesque",
+   "titres": "caprasimo",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "catamaran-ibm-plex-mono",
+   "titres": "catamaran",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "catamaran-jetbrains-mono",
+   "titres": "catamaran",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "chakra-petch-barlow",
+   "titres": "chakra-petch",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "chakra-petch-bricolage-grotesque",
+   "titres": "chakra-petch",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "comfortaa-comic-neue",
+   "titres": "comfortaa",
+   "texte": "comic-neue",
+   "ambiances": [
+    "doux",
+    "joyeux",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "comfortaa-rubik",
+   "titres": "comfortaa",
+   "texte": "rubik",
+   "ambiances": [
+    "doux",
+    "joyeux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "cormorant-alegreya",
+   "titres": "cormorant",
+   "texte": "alegreya",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "cormorant-almendra",
+   "titres": "cormorant",
+   "texte": "almendra",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "cuprum-ibm-plex-mono",
+   "titres": "cuprum",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "cuprum-jetbrains-mono",
+   "titres": "cuprum",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "dela-gothic-one-barlow",
+   "titres": "dela-gothic-one",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "dela-gothic-one-bricolage-grotesque",
+   "titres": "dela-gothic-one",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "dosis-comic-neue",
+   "titres": "dosis",
+   "texte": "comic-neue",
+   "ambiances": [
+    "doux",
+    "joyeux",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "dosis-rubik",
+   "titres": "dosis",
+   "texte": "rubik",
+   "ambiances": [
+    "doux",
+    "joyeux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "exo-ibm-plex-mono",
+   "titres": "exo",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "exo-jetbrains-mono",
+   "titres": "exo",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "fira-sans-ibm-plex-mono",
+   "titres": "fira-sans",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "fira-sans-jetbrains-mono",
+   "titres": "fira-sans",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "frank-ruhl-libre-alegreya",
+   "titres": "frank-ruhl-libre",
+   "texte": "alegreya",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "frank-ruhl-libre-almendra",
+   "titres": "frank-ruhl-libre",
+   "texte": "almendra",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "gelasio-alegreya",
+   "titres": "gelasio",
+   "texte": "alegreya",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "gelasio-almendra",
+   "titres": "gelasio",
+   "texte": "almendra",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "gilda-display-alegreya",
+   "titres": "gilda-display",
+   "texte": "alegreya",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "gilda-display-almendra",
+   "titres": "gilda-display",
+   "texte": "almendra",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "glory-ibm-plex-mono",
+   "titres": "glory",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "glory-jetbrains-mono",
+   "titres": "glory",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "gothic-a1-ibm-plex-mono",
+   "titres": "gothic-a1",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "gothic-a1-jetbrains-mono",
+   "titres": "gothic-a1",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "hind-ibm-plex-mono",
+   "titres": "hind",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "hind-jetbrains-mono",
+   "titres": "hind",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "ibm-plex-sans-ibm-plex-mono",
+   "titres": "ibm-plex-sans",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "ibm-plex-sans-jetbrains-mono",
+   "titres": "ibm-plex-sans",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "ibm-plex-serif-alegreya",
+   "titres": "ibm-plex-serif",
+   "texte": "alegreya",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "ibm-plex-serif-almendra",
+   "titres": "ibm-plex-serif",
+   "texte": "almendra",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "instrument-sans-ibm-plex-mono",
+   "titres": "instrument-sans",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "instrument-sans-jetbrains-mono",
+   "titres": "instrument-sans",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "instrument-serif-alegreya",
+   "titres": "instrument-serif",
+   "texte": "alegreya",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "instrument-serif-almendra",
+   "titres": "instrument-serif",
+   "texte": "almendra",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "kanit-ibm-plex-mono",
+   "titres": "kanit",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "kanit-jetbrains-mono",
+   "titres": "kanit",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "kumbh-sans-ibm-plex-mono",
+   "titres": "kumbh-sans",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "kumbh-sans-jetbrains-mono",
+   "titres": "kumbh-sans",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "lilita-one-barlow",
+   "titres": "lilita-one",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "lilita-one-bricolage-grotesque",
+   "titres": "lilita-one",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "lobster-two-comic-neue",
+   "titres": "lobster-two",
+   "texte": "comic-neue",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux"
+   ]
+  },
+  {
+   "id": "lobster-two-rubik",
+   "titres": "lobster-two",
+   "texte": "rubik",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "maven-pro-ibm-plex-mono",
+   "titres": "maven-pro",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "maven-pro-jetbrains-mono",
+   "titres": "maven-pro",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "mukta-ibm-plex-mono",
+   "titres": "mukta",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "mukta-jetbrains-mono",
+   "titres": "mukta",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "newsreader-alegreya",
+   "titres": "newsreader",
+   "texte": "alegreya",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "newsreader-almendra",
+   "titres": "newsreader",
+   "texte": "almendra",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "noto-sans-ibm-plex-mono",
+   "titres": "noto-sans",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "noto-sans-jetbrains-mono",
+   "titres": "noto-sans",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "orbitron-barlow",
+   "titres": "orbitron",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "orbitron-bricolage-grotesque",
+   "titres": "orbitron",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "overpass-ibm-plex-mono",
+   "titres": "overpass",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "overpass-jetbrains-mono",
+   "titres": "overpass",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "oxygen-ibm-plex-mono",
+   "titres": "oxygen",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "oxygen-jetbrains-mono",
+   "titres": "oxygen",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "philosopher-ibm-plex-mono",
+   "titres": "philosopher",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "philosopher-jetbrains-mono",
+   "titres": "philosopher",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "prata-alegreya",
+   "titres": "prata",
+   "texte": "alegreya",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "prata-almendra",
+   "titres": "prata",
+   "texte": "almendra",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "prompt-ibm-plex-mono",
+   "titres": "prompt",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "prompt-jetbrains-mono",
+   "titres": "prompt",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "quattrocento-alegreya",
+   "titres": "quattrocento",
+   "texte": "alegreya",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "quattrocento-almendra",
+   "titres": "quattrocento",
+   "texte": "almendra",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "red-hat-display-ibm-plex-mono",
+   "titres": "red-hat-display",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "red-hat-display-jetbrains-mono",
+   "titres": "red-hat-display",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "roboto-condensed-ibm-plex-mono",
+   "titres": "roboto-condensed",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "roboto-condensed-jetbrains-mono",
+   "titres": "roboto-condensed",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "rowdies-barlow",
+   "titres": "rowdies",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "rowdies-bricolage-grotesque",
+   "titres": "rowdies",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "sansita-barlow",
+   "titres": "sansita",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "sansita-bricolage-grotesque",
+   "titres": "sansita",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "signika-ibm-plex-mono",
+   "titres": "signika",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "signika-jetbrains-mono",
+   "titres": "signika",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "syncopate-ibm-plex-mono",
+   "titres": "syncopate",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "syncopate-jetbrains-mono",
+   "titres": "syncopate",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "teko-barlow",
+   "titres": "teko",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "teko-bricolage-grotesque",
+   "titres": "teko",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "vollkorn-alegreya",
+   "titres": "vollkorn",
+   "texte": "alegreya",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "vollkorn-almendra",
+   "titres": "vollkorn",
+   "texte": "almendra",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "fredoka-comic-neue",
+   "titres": "fredoka",
+   "texte": "comic-neue",
+   "ambiances": [
+    "doux",
+    "joyeux",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "fredoka-rubik",
+   "titres": "fredoka",
+   "texte": "rubik",
+   "ambiances": [
+    "doux",
+    "joyeux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "chewy-comic-neue",
+   "titres": "chewy",
+   "texte": "comic-neue",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux"
+   ]
+  },
+  {
+   "id": "chewy-rubik",
+   "titres": "chewy",
+   "texte": "rubik",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "indie-flower-comic-neue",
+   "titres": "indie-flower",
+   "texte": "comic-neue",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux"
+   ]
+  },
+  {
+   "id": "indie-flower-rubik",
+   "titres": "indie-flower",
+   "texte": "rubik",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "architects-daughter-comic-neue",
+   "titres": "architects-daughter",
+   "texte": "comic-neue",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux"
+   ]
+  },
+  {
+   "id": "architects-daughter-rubik",
+   "titres": "architects-daughter",
+   "texte": "rubik",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "caveat-brush-comic-neue",
+   "titres": "caveat-brush",
+   "texte": "comic-neue",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux"
+   ]
+  },
+  {
+   "id": "caveat-brush-rubik",
+   "titres": "caveat-brush",
+   "texte": "rubik",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "homemade-apple-comic-neue",
+   "titres": "homemade-apple",
+   "texte": "comic-neue",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux"
+   ]
+  },
+  {
+   "id": "homemade-apple-rubik",
+   "titres": "homemade-apple",
+   "texte": "rubik",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "monoton-barlow",
+   "titres": "monoton",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "monoton-bricolage-grotesque",
+   "titres": "monoton",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "rubik-mono-one-barlow",
+   "titres": "rubik-mono-one",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "rubik-mono-one-bricolage-grotesque",
+   "titres": "rubik-mono-one",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "bagel-fat-one-barlow",
+   "titres": "bagel-fat-one",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "bagel-fat-one-bricolage-grotesque",
+   "titres": "bagel-fat-one",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "cherry-bomb-one-barlow",
+   "titres": "cherry-bomb-one",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "cherry-bomb-one-bricolage-grotesque",
+   "titres": "cherry-bomb-one",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "vidaloka-alegreya",
+   "titres": "vidaloka",
+   "texte": "alegreya",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "vidaloka-almendra",
+   "titres": "vidaloka",
+   "texte": "almendra",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "young-serif-alegreya",
+   "titres": "young-serif",
+   "texte": "alegreya",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "young-serif-almendra",
+   "titres": "young-serif",
+   "texte": "almendra",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "rozha-one-alegreya",
+   "titres": "rozha-one",
+   "texte": "alegreya",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "rozha-one-almendra",
+   "titres": "rozha-one",
+   "texte": "almendra",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "shrikhand-comic-neue",
+   "titres": "shrikhand",
+   "texte": "comic-neue",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux"
+   ]
+  },
+  {
+   "id": "shrikhand-rubik",
+   "titres": "shrikhand",
+   "texte": "rubik",
+   "ambiances": [
+    "joyeux",
+    "artisanal",
+    "doux",
+    "moderne"
+   ]
+  },
+  {
+   "id": "unica-one-barlow",
+   "titres": "unica-one",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "unica-one-bricolage-grotesque",
+   "titres": "unica-one",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "zen-kaku-gothic-new-ibm-plex-mono",
+   "titres": "zen-kaku-gothic-new",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "zen-kaku-gothic-new-jetbrains-mono",
+   "titres": "zen-kaku-gothic-new",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "bungee-shade-barlow",
+   "titres": "bungee-shade",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "bungee-shade-bricolage-grotesque",
+   "titres": "bungee-shade",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "climate-crisis-barlow",
+   "titres": "climate-crisis",
+   "texte": "barlow",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "climate-crisis-bricolage-grotesque",
+   "titres": "climate-crisis",
+   "texte": "bricolage-grotesque",
+   "ambiances": [
+    "audacieux",
+    "moderne",
+    "artisanal"
+   ]
+  },
+  {
+   "id": "almendra-alegreya",
+   "titres": "almendra",
+   "texte": "alegreya",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "almendra-cormorant",
+   "titres": "almendra",
+   "texte": "cormorant",
+   "ambiances": [
+    "élégant",
+    "premium",
+    "chaleureux"
+   ]
+  },
+  {
+   "id": "belleza-ibm-plex-mono",
+   "titres": "belleza",
+   "texte": "ibm-plex-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  },
+  {
+   "id": "belleza-jetbrains-mono",
+   "titres": "belleza",
+   "texte": "jetbrains-mono",
+   "ambiances": [
+    "moderne",
+    "minimaliste",
+    "sérieux"
+   ]
+  }
+ ]
+}

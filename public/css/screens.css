@@ -1,0 +1,20 @@
+.accueil .intro { font-size: 1.2rem; max-width: 40rem; }
+.barre-outils { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 1rem 2rem; margin-block: 1rem 1.5rem; }
+.barre-outils .champ { margin: 0; }
+.ligne { display: flex; align-items: flex-end; gap: 0.6rem; flex-wrap: wrap; }
+.ligne .champ { margin: 0; }
+.propositions { list-style: none; padding: 0; display: grid; gap: 1.25rem; grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr)); }
+.proposition { display: flex; flex-direction: column; gap: 0.6rem; }
+.proposition h2 { font-size: 1.15rem; margin: 0; }
+.verrous { border: 1px dashed var(--c-bordure); border-radius: var(--rayon-petit); padding: 0.4rem 0.8rem; }
+.verrous legend { font-size: 0.9rem; font-weight: 400; color: var(--c-texte-attenue); }
+.verrous div { display: flex; align-items: center; gap: 0.5rem; min-height: 2.2rem; }
+.verrous input { width: 1.3rem; height: 1.3rem; accent-color: var(--c-primaire); }
+.verrous label { display: inline; font-weight: 400; margin: 0; }
+.proposition > .bouton { margin-top: auto; }
+.variantes { list-style: none; padding: 0; display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr)); }
+.variantes .carte { padding: 0.6rem; text-align: center; }
+.deux-colonnes { display: grid; gap: 2rem; grid-template-columns: 1fr; }
+@media (min-width: 60rem) { .deux-colonnes { grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); align-items: start; } .apercu-colle { position: sticky; top: 1rem; } }
+.etat { min-height: 1.5rem; margin-top: 0.8rem; font-weight: 700; }
+.barre { margin-top: 1rem; }

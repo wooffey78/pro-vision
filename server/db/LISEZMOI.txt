@@ -1,0 +1,2 @@
+Réservé à une éventuelle future base de données.
+Pro-vision V1 n’utilise aucune base : tout reste dans le navigateur.

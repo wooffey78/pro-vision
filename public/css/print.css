@@ -1,0 +1,4 @@
+.entete, .pied, .actions, .evitement, .barre-outils, nav { display: none !important; }
+body { background: Canvas; color: CanvasText; font-size: 11pt; }
+.carte, .logo-boite { box-shadow: none; break-inside: avoid; }
+a { color: inherit; }

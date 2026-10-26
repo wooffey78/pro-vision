@@ -1,0 +1,20 @@
+{
+  "nom": "Pro-vision",
+  "version": "1.0.0",
+  "langue": "fr",
+  "ai": { "enabled": false },
+  "licence": { "mode": "free" },
+  "bridge": { "enabled": true },
+  "avis": { "url": "" },
+  "couleurs": { "seuilEviteesDeltaE": 0.08 },
+  "limites": { "nomMin": 2, "nomMax": 40, "mentionMax": 40, "activiteMax": 160, "zipMaxOctets": 20971520, "zipMaxEntrees": 500, "zipRatioMax": 100, "jsonMaxOctets": 1048576 },
+  "liens": {
+    "inpi": "https://data.inpi.fr",
+    "tmview": "https://www.tmdn.org/tmview",
+    "afnic": "https://www.afnic.fr",
+    "formalites": "https://formalites.entreprises.gouv.fr",
+    "servicePublic": "https://www.service-public.fr",
+    "urssaf": "https://www.urssaf.fr",
+    "googleBusiness": "https://business.google.com"
+  }
+}
